@@ -1,0 +1,97 @@
+body {
+  background: linear-gradient(
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(122, 14, 14);
+  font-size: 50px;
+  font-family: Verdana, Geneva, v Tahoma, sans-serif;
+}
+
+h2 {
+  font-size: 28px;
+  color: rgba(41, 62, 4, 0.754);
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 20px 0;
+}
+
+p {
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 0;
+  width: 560px;
+  height: 400px;
+}
+
+hr {
+  height: 0.5px;
+  border: none;
+  background-color: black;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: brown;
+  border-radius: 10px;
+  border: none;
+  padding: 15px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  text-align: center;
+  padding: 80px 0;
+  font-size: 20px;
+}
+
+top-fashion:hover {
+  text-decoration: 2px underline;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: gray;
+}
+.content {
+  max-width: 600px;
+  margin: auto;
+}
+
+.top-fashion {
+  display: block;
+  text-decoration: none;
+  margin-top: 40px;
+  text-align: center;
+  color: rgb(35, 61, 95);
+  font-size: 20px;
+}
+
+.name {
+  color: chocolate;
+}
+.name2 {
+  color: darkgreen;
+}
